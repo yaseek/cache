@@ -1,0 +1,8 @@
+{
+    "name": "yaseek/cache",
+    "description": "file cache realisation",
+    "license": "MIT",
+    "autoload": {
+        "classmap": ["lib/"]
+    }
+}
